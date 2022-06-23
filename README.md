@@ -14,7 +14,6 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🔍 I have many live apps in Store Google Play & Apple Store > 
 <!--   - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014)) -->
 - 💬 Ask me about **Dart and Flutter**
-- 
 
 
 <!--
